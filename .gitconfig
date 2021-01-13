@@ -45,7 +45,4 @@
 
 [branch "master"]
   mergeoptions = --no-edit
-[user]
-	email = saralogsin@protonmail.com
-	name = Sadie Balsom
 
