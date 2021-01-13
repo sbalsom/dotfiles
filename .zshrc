@@ -32,3 +32,6 @@ DISABLE_UNTRACKED_FILES_DIRTY="true"
 source /usr/local/share/chruby/chruby.sh
 source /usr/local/share/chruby/auto.sh
 
+if command -v pyenv 1>/dev/null 2>&1; then
+  eval "$(pyenv init -)"
+fi
