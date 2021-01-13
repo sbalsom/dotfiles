@@ -29,3 +29,6 @@ export BUNDLER_EDITOR="code"
 DISABLE_UNTRACKED_FILES_DIRTY="true"
 
 . /usr/local/opt/asdf/asdf.sh
+source /usr/local/share/chruby/chruby.sh
+source /usr/local/share/chruby/auto.sh
+
